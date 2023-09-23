@@ -4,7 +4,7 @@
 
 I'm a passionate DevOps Engineer with experience in AWS, Docker, and Digital Ocean. My expertise lies in building robust CI/CD pipelines and ensuring smooth deployments for various projects. I am also deeply interested in the world of Artificial Intelligence and Machine Learning, and I have hands-on experience with Python, TensorFlow, Keras, computer vision projects utilizing OpenCV, and CNN architectures.
 
-### 🌐 Web Development
+### 🌐 Devops Engineer
 
 In addition to my DevOps and AI/ML skills, I'm also proficient in web development. I've worked with a variety of technologies, including:
 
